@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Ilyes Reguig !  
 
-<!--
-**reguig23/reguig23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Développeur FullStack en R&D** passionné par l'optimisation UI/UX, l'architecture logicielle et la performance des applications.  
 
-Here are some ideas to get you started:
+🔭 **Expérience** :  
+- **CEA** : Refonte UX/UI d’un outil de gestion de données (ReactJS, NodeJS, MongoDB, Docker, Kubernetes)  
+- **SII** : Développement d'une interface d’accessibilité pour pilotes malentendants (React Native, TypeScript, Figma)  
+- **Thales** : Création d’une interface pour objets connectés (ElectronJS, NodeJS)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Compétences** :  
+- **Front-end** : React, Angular, Next.js, TypeScript, Tailwind  
+- **Back-end** : Node.js, Java (Spring Boot), Python, C++  
+- **Bases de données** : SQL, PostgreSQL, MongoDB  
+- **UI/UX Design** : Figma, Optimisation d’expérience utilisateur  
+- **DevOps** : Docker, Kubernetes  
+
+🎯 **En recherche d’opportunités en France** pour participer à des projets innovants et booster mes compétences !  
+
+🌍 **Langues** : Français 🇫🇷 | Anglais (B2 – TOEIC 725)  
+
+📫 **Me contacter** :  
+[📧 Email](mailto:ilyes.reguig23000@gmail.com) | [💼 LinkedIn](https://www.linkedin.com/in/ilyes-reguig) | [🌐 Portfolio](https://ilyesreguigportfolio.vercel.app/)  
+
